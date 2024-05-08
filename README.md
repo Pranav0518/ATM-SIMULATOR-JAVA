@@ -1,6 +1,6 @@
 ATM SIMULATION SYSTEM
 
-This project is an ATM Simulation System that utilizes biometric access for emergency purposes without the need for cards. It is built using Java Swing for the graphical user interface (GUI) and JDBC for connecting to MySQL to perform database operations.
+This project is an ATM Simulation System that utilizes biometric access for emergency purposes without the need for cards. It is built using Java Swing for the graphical user interface (GUI) and JDBC for connecting to MySQL to perform database operations.The Files with 1 belongs to card based acces while 2 belong to biometric based access.
 
 
 PROJECT OPERATION
